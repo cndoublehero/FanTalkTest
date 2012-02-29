@@ -8,8 +8,8 @@ import java.util.List;
 import org.fantalk.json.reader.JsonReader;
 import org.junit.Test;
 
-import project.fantalk.api.fanfou.Message;
 import project.fantalk.api.fanfou.Parser;
+import project.fantalk.api.fanfou.domain.Message;
 
 public class DirectMessagesTest {
 

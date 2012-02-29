@@ -9,7 +9,7 @@ import org.json.JSONException;
 import org.junit.Test;
 
 import project.fantalk.api.fanfou.Parser;
-import project.fantalk.api.fanfou.Trends;
+import project.fantalk.api.fanfou.domain.Trends;
 
 public class TrendsTest {
 	@Test

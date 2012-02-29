@@ -4,7 +4,7 @@ import static junit.framework.Assert.assertNotNull;
 import org.fantalk.json.reader.JsonReader;
 import org.junit.Test;
 
-import project.fantalk.api.fanfou.User;
+import project.fantalk.api.fanfou.domain.User;
 
 public class ShowTest {
 	@Test

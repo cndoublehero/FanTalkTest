@@ -5,8 +5,8 @@ import org.fantalk.json.reader.JsonReader;
 import org.json.JSONException;
 import org.junit.Test;
 
-import project.fantalk.api.fanfou.Notification;
 import project.fantalk.api.fanfou.Parser;
+import project.fantalk.api.fanfou.domain.Notification;
 
 public class NotificationTest {
 

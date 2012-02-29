@@ -9,7 +9,7 @@ import org.fantalk.json.reader.JsonReader;
 import org.junit.Test;
 
 import project.fantalk.api.fanfou.Parser;
-import project.fantalk.api.fanfou.Status;
+import project.fantalk.api.fanfou.domain.Status;
 
 public class FriendsTimelineTest {
 	@Test

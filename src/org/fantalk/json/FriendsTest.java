@@ -6,7 +6,7 @@ import org.fantalk.json.reader.JsonReader;
 import org.junit.Test;
 import static junit.framework.Assert.*;
 import project.fantalk.api.fanfou.Parser;
-import project.fantalk.api.fanfou.User;
+import project.fantalk.api.fanfou.domain.User;
 
 public class FriendsTest {
 	@Test
